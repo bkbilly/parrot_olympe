@@ -1,0 +1,15 @@
+{
+  "domain": "parrot_olympe",
+  "name": "parrot_olympe",
+  "config_flow": true,
+  "documentation": "https://github.com/bkbilly/parrot_olympe",
+  "issue_tracker": "https://github.com/bkbilly/parrot_olympe/issues",
+  "requirements": ["parrot-olympe==7.4.2"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@bkbilly"],
+  "iot_class": "local_push",
+  "version": "0.0.0"
+}
